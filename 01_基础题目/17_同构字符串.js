@@ -17,4 +17,4 @@ var isIsomorphic = function(s, t) {
   return true;
 };
 let s = "egg", t = "add";
-isIsomorphic(s,t)
+isIsomorphic(s, t);
