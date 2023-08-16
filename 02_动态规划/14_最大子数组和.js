@@ -7,9 +7,8 @@ var maxSubArray = function(nums) {
       sum = nums[i]
     } 
     maxSum = Math.max(maxSum,sum)
-    
   }
   return maxSum;
 };
-let nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4];
+let nums = [999,-1,-2,-3,4,5];
 console.log(maxSubArray(nums));
