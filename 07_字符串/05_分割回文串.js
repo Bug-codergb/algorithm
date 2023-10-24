@@ -1,0 +1,3 @@
+var partition = function(s) {
+
+};
