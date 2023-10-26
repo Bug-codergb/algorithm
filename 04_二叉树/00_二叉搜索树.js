@@ -43,7 +43,7 @@ tree.insert(22);
 tree.insert(23);
 tree.insert(16);
 tree.insert(18);
-console.log(tree)
+//console.log(tree)
 export {
   tree
 }
